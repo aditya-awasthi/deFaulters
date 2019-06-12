@@ -1,0 +1,76 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="defaulters.in" resolutions="1x" timestamp="1560331801614">
+  <folder name="css">
+    <file name="site_global.css" crc="3909519401"/>
+    <file name="index.css" crc="145561375" ref="index"/>
+    <file name="nomq_index.css" crc="7302880" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u644.php" crc="3865788605" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="vikram-tkv-1438465-unsplashed.jpg" crc="155862920" ref="index"/>
+    <file name="onepage.png" crc="4201634854" seo="true" ref="index"/>
+    <file name="responsive_icon.png" crc="56504102" seo="true" ref="index"/>
+    <file name="free_icon.png" crc="3993372265" seo="true" ref="index"/>
+    <file name="deathtostock_wired6 copia.jpg" crc="3786149677" ref="index"/>
+    <file name="facebook.png" crc="65170122" seo="true" ref="index"/>
+    <file name="instagram.png" crc="103471249" seo="true" ref="index"/>
+    <file name="twitter.png" crc="157966522" seo="true" ref="index"/>
+    <file name="youtube.png" crc="4005067367" seo="true" ref="index"/>
+    <file name="linkedin.png" crc="3788307392" seo="true" ref="index"/>
+    <file name="u865-4.png" crc="4123088662" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u927.png" crc="273205796" ref="index"/>
+    <file name="u927-r.png" crc="273205796" ref="index"/>
+    <file name="u938.png" crc="131624790" ref="index"/>
+    <file name="u938-r.png" crc="131624790" ref="index"/>
+    <file name="u5513-4.png" crc="242136989" ref="index"/>
+    <file name="vikram-tkv-1438465-unsplashed-u349-fr.jpg" crc="367503228" ref="index"/>
+    <file name="onepage100x100.png" crc="4201634854" seo="true" ref="index"/>
+    <file name="responsive_icon100x100.png" crc="3937283520" seo="true" ref="index"/>
+    <file name="free_icon100x100.png" crc="361681115" seo="true" ref="index"/>
+    <file name="deathtostock_wired6 copia-u710-fr.jpg" crc="4108708437" ref="index"/>
+    <file name="u865-42.png" crc="162610793" ref="index"/>
+    <file name="u9272.png" crc="273205796" ref="index"/>
+    <file name="u927-r2.png" crc="273205796" ref="index"/>
+    <file name="u9382.png" crc="4262802022" ref="index"/>
+    <file name="u938-r2.png" crc="4262802022" ref="index"/>
+    <file name="u5513-42.png" crc="212408972" ref="index"/>
+    <file name="u865-43.png" crc="178303686" ref="index"/>
+    <file name="u9273.png" crc="273205796" ref="index"/>
+    <file name="u927-r3.png" crc="273205796" ref="index"/>
+    <file name="u9383.png" crc="131624790" ref="index"/>
+    <file name="u938-r3.png" crc="131624790" ref="index"/>
+    <file name="vikram-tkv-1438465-unsplashed-u349-fr2.jpg" crc="3858089853" ref="index"/>
+    <file name="u5513-43.png" crc="132498986" ref="index"/>
+    <file name="onepage63x63.png" crc="412778108" seo="true" ref="index"/>
+    <file name="responsive_icon63x63.png" crc="330396396" seo="true" ref="index"/>
+    <file name="free_icon63x63.png" crc="4095017895" seo="true" ref="index"/>
+    <file name="deathtostock_wired6 copia-u710-fr2.jpg" crc="128836413" ref="index"/>
+    <file name="u9274.png" crc="273205796" ref="index"/>
+    <file name="u927-r4.png" crc="273205796" ref="index"/>
+    <file name="u9384.png" crc="131624790" ref="index"/>
+    <file name="u938-r4.png" crc="131624790" ref="index"/>
+    <file name="u865-44.png" crc="178303686" ref="index"/>
+    <file name="u5513-44.png" crc="1888470" ref="index"/>
+    <file name="onepage35x35.png" crc="464333328" seo="true" ref="index"/>
+    <file name="responsive_icon35x35.png" crc="3895481440" seo="true" ref="index"/>
+    <file name="free_icon35x35.png" crc="3963865900" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="484040713" seo="true" mt="1560331798811" redirect="true"/>
+</manifest>
